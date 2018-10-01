@@ -1,0 +1,4 @@
+Bundle-Name: poc-portlet
+Bundle-SymbolicName: poc.portlet
+Bundle-Version: 1.0.0
+Export-Package: poc.portlet.constants

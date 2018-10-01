@@ -17,3 +17,4 @@ atlassian-ide-plugin.xml
 */.gradle
 
 **/.sass-cache
+**/rebel.xml

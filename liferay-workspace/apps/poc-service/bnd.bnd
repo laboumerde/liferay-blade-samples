@@ -1,0 +1,3 @@
+Bundle-Name: poc-service
+Bundle-SymbolicName: poc.service
+Bundle-Version: 1.0.0
