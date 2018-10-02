@@ -3,5 +3,5 @@
 <p>
 	<b><liferay-ui:message key="poc.caption"/></b>
 	
-<%-- 	<%= renderRequest.getAttribute("doSomething") %> --%>
+	<br/>Et le titre : <%= request.getAttribute("pocTest") %>
 </p>
